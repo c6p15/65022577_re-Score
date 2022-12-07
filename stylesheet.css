@@ -1,0 +1,122 @@
+#link{
+    background-color: aqua;
+}
+.link_right{
+    float:right;
+    margin: right 10px;
+}
+#LeftBlock{
+    background-color: gray;
+    border: 4px solid black;
+    float:left;
+
+}
+#Leftside1{
+    background-color: white;
+    padding: 10px;
+}
+#Parent1{
+    color:white;
+    background-color:rgb(52, 145, 128);
+    padding: 20px;
+    height: 90px;
+    margin: 20px;
+}
+.child1{
+    float: left;
+    margin-right: 10px;
+}
+#red{
+    background-color: red;
+    height: 90px;
+    width: 300px;   
+
+}
+#green{
+    background-color: green;
+    height: 90px;
+    width: 300px;
+}
+#Leftside2{
+    background-color: white;
+    height: auto;
+}
+#Parent2-1{
+    color: white;
+    background-color: lime;
+    padding: 20px;
+    height: 90px;
+    width: 670px;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: right;
+    float:left;
+}
+.child2-1{
+    float: left;
+    margin-right: 10px;
+}
+#purple{
+    background-color: purple;
+    text-align: center;
+    height: 90px;
+    width: 150px;   
+}
+#Parent2-2{
+    color: white;
+    background-color: purple;
+    padding: 20px;
+    height: 90px;
+    width: 670px;
+    margin-top: 20px;
+    float: left;
+}
+.child2-2{
+    float:right;
+    margin-left: 10px;
+}
+#lime{
+    background-color: lime;
+    text-align: center;
+    height: 90px;
+    width: 150px;  
+}
+aside{
+    background-color:bisque;
+    border:4px solid black;
+}
+#midside1{
+    background-color: white;
+    height: 400px;
+}
+#Parentmid1{
+    background-color: aquamarine;
+    height: 200px;
+    margin: 20px;
+
+}
+#child3{
+    background-color: red;
+    height: 150px;
+    margin: 10px;
+    float: left;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+    background-color:orange;
+}
